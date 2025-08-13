@@ -1,8 +1,4 @@
----
-
 # Enterprise DataOps Desk
-
-
 
 ### An all-in-one desktop application for modern data engineering teams.
 
